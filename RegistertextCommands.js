@@ -1,6 +1,6 @@
  
 const { REST, Routes} =  require('discord.js');
-const { token } = require('./config.json');
+const {"MTI1ODk3ODgwNzU3MDc1OTg0MQ.GmI4xA.F_ShCNuJqh5CylAVFxAaNgzd-09TLJLTThRMMs"} = require('./config.json');
 
 
 const commands = [
